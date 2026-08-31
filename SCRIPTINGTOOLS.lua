@@ -149,3 +149,6 @@ EXLORERSCRIPT:AddButton("DEX EXPLORER SCRIPT", "", function()
      loadstring(game:HttpGet("https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua"))()
  print("🛡️DEX EXPLORER EXECUTE")
 end)
+
+
+print("67papi")
